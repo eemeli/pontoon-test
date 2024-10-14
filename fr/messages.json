@@ -1,6 +1,6 @@
 {
   "notificationContent": {
-    "message": "Vous avez cliqué sur $URL$ .",
+    "message": "Vous avez cliqué sur $URL$.",
     "description": "Tells the user which link they clicked.",
     "placeholders": {
       "url": {
