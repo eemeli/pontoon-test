@@ -8,6 +8,7 @@
 
 <resources>
   <string name="hello">Bonjour !</string>
+  <string name="string-with-protections">Chaîne avec %1$s</string>
   <plurals name="number_of_songs">
     <item quantity="one">%d chanson trouvée.</item>
     <item quantity="other">%d chansons trouvées.</item>
